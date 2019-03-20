@@ -1,0 +1,9 @@
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\bin\Debug\netcoreapp2.2\MMSalesBoard.Model.deps.json
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\bin\Debug\netcoreapp2.2\MMSalesBoard.Model.dll
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\bin\Debug\netcoreapp2.2\MMSalesBoard.Model.pdb
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\obj\Debug\netcoreapp2.2\MMSalesBoard.Model.csprojAssemblyReference.cache
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\obj\Debug\netcoreapp2.2\MMSalesBoard.Model.csproj.CoreCompileInputs.cache
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\obj\Debug\netcoreapp2.2\MMSalesBoard.Model.AssemblyInfoInputs.cache
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\obj\Debug\netcoreapp2.2\MMSalesBoard.Model.AssemblyInfo.cs
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\obj\Debug\netcoreapp2.2\MMSalesBoard.Model.dll
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Model\obj\Debug\netcoreapp2.2\MMSalesBoard.Model.pdb

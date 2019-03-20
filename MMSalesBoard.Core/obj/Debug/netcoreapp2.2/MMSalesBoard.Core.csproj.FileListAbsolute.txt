@@ -1,0 +1,14 @@
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\bin\Debug\netcoreapp2.2\MMSalesBoard.Core.deps.json
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\bin\Debug\netcoreapp2.2\MMSalesBoard.Core.dll
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\bin\Debug\netcoreapp2.2\MMSalesBoard.Core.pdb
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\obj\Debug\netcoreapp2.2\MMSalesBoard.Core.csproj.CoreCompileInputs.cache
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\obj\Debug\netcoreapp2.2\MMSalesBoard.Core.AssemblyInfoInputs.cache
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\obj\Debug\netcoreapp2.2\MMSalesBoard.Core.AssemblyInfo.cs
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\obj\Debug\netcoreapp2.2\MMSalesBoard.Core.dll
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\obj\Debug\netcoreapp2.2\MMSalesBoard.Core.pdb
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\obj\Debug\netcoreapp2.2\MMSalesBoard.Core.csprojAssemblyReference.cache
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\obj\Debug\netcoreapp2.2\MMSalesBoard.Core.csproj.CopyComplete
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\bin\Debug\netcoreapp2.2\MMSalesBoard.Models.dll
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\bin\Debug\netcoreapp2.2\MMSalesBoard.Models.pdb
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\bin\Debug\netcoreapp2.2\MMSalesBoard.DataAccess.dll
+C:\Projects\MMSalesBoardApp\MMSalesBoard.Core\bin\Debug\netcoreapp2.2\MMSalesBoard.DataAccess.pdb
